@@ -6,9 +6,7 @@ https://doi.org/10.1007/978-981-10-8863-6_9
 data:Breastcancer
 
 50:50
-acc:0.94286, feature:[2, 5]/9, loss:0.05879
-acc:0.96286, feature:[0, 1, 2, 3, 4, 5, 6, 7, 8]/9, loss:None
+acc:0.94286, feature:[2, 5]/9, loss:0.05879; acc:0.96286, feature:[0, 1, 2, 3, 4, 5, 6, 7, 8]/9, loss:None
 
 90:10
-acc:0.93271, feature:[2, 5]/9, loss:0.05035
-acc:0.96853, feature:[0, 1, 2, 3, 4, 5, 6, 7, 8]/9, loss:None
+acc:0.93271, feature:[2, 5]/9, loss:0.05035; acc:0.96853, feature:[0, 1, 2, 3, 4, 5, 6, 7, 8]/9, loss:None
